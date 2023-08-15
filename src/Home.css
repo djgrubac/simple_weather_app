@@ -84,3 +84,9 @@
 .humidity p, .wind p{
     margin: 0px;
 }
+
+.error{
+    color: red;
+    text-align: center;
+    margin-right: 10px;
+}
